@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea
+logger_output
+bin
+.settings
+libs
+logger_output
+NoChangeCountLogger
+tools
+
